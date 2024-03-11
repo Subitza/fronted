@@ -1,1 +1,1 @@
-export const API = "https://mern-meals-master-nb2p.vercel.app"
+export const API = "https://vercel.com/subitzas-projects"
