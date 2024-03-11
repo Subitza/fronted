@@ -1,1 +1,1 @@
-export const API = "http://localhost:4000"
+export const API = "https://mern-meals-master-nb2p.vercel.app"
